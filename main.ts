@@ -385,7 +385,7 @@ namespace magicbit {
         MotorRun(index, 0);
     }
 
-    //% blockId="magicbit_stop_all" block="Motor Stop All"
+    //% blockId="magicbit_stop_all" block="停止所有电机"
     //% weight=79
     //% blockGap=50
     export function MotorStopAll(): void {
