@@ -4,8 +4,7 @@
     "description": "Emakefun magic:bit expansion board",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:Microsoft/pxt-neopixel#v0.6.12"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -15,6 +14,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "preferredEditor": "tsprj"
+    "public": true
 }
